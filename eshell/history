@@ -1,0 +1,19 @@
+mv init-kbd.el\) init-kbd.el
+ls
+rm *~
+ls
+runemacs.exe --debug-init
+runemacs.exe --debug-init
+runemacs.exe --debug-init
+runemacs.exe --debug-init
+ls 
+rm init-*\~
+ls
+cd ..
+ls
+rm *\~
+lstrlenA
+ls
+cd auto-save-list
+ls
+runemacs.exe --debug-init
